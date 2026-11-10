@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Environment Variables (Security)
+.env
+
+# Python Cache
+__pycache__/
+
+# IDE Settings
+.vscode/
+
+# Local SQLite Database (Prevents pushing local audit history)
+orders_log.db
+
+api_details/
