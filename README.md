@@ -3,6 +3,8 @@
 **An AI-driven Agentic workflow for automating unstructured order ingestion.**
 Powered by LangGraph and Groq LLMs, this system dynamically extracts order parameters from raw customer emails, performs real-time inventory and customer validation against Microsoft Dynamics 365 Business Central, and routes exceptions to a Human-in-the-Loop (HITL) triage interface. Full execution observability is maintained via Langfuse alongside a persistent SQLite audit log for central governance.
 
+[![Watch the Demo](https://www.youtube.com/watch?v=bB50z1cjoiY)
+
 ## Key Features
 
 * **Automated Data Extraction:** Uses Groq's low-latency LLMs (Llama 3.1 8B) to structure unstructured email requests into strict Pydantic schemas.
