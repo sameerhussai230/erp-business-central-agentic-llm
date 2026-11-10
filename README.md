@@ -6,8 +6,8 @@ Powered by LangGraph and Groq LLMs, this system dynamically extracts order param
 ## 🎥 Watch Project Demo Video
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=bB50z1cjoiY" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.youtube.com/watch?v=bB50z1cjoiY" alt="Agentic Order Processing System" width="100%" style="border-radius: 8px;">
+  <a href="https://www.youtube.com/watch?v=bB50z1cjoiY" target="_blank">
+    <img src="https://img.youtube.com/vi/bB50z1cjoiY/maxresdefault.jpg" alt="Agentic Order Processing System Demo" width="100%" style="border-radius: 8px;" />
   </a>
   <br/>
   <p><b>▶️ Click the image above to watch the full 1080p HD demo video on YouTube</b></p>
